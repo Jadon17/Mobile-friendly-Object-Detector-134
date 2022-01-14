@@ -1,0 +1,28 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading
+{
+font-size: 30px;
+width: 80%;
+margin: 5px;
+color: blue;
+background-color: lightgreen;
+padding: 10px 10px 10px 10px;
+border-radius: 72px;
+font-family: 'Bebas Neue';
+}
+
+#status
+{
+font-size: 25px;
+font-family: 'Lobster two';
+}
+
+canvas {
+    margin-top: 30px;
+    box-shadow: 20px 20px 18px grey;
+    border-radius: 25px;
+}
